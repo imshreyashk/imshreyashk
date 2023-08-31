@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imshreyashk
-- 👀 I’m interested in python 
-- 🌱 I’m currently learning python 2 months ago
-- 💞️ I’m looking to ask me question related it
+- 👀 I’m interested in 
+- 🌱 I’m currently learning
+- 💞️ I’m looking to 
   
 
 <!---
