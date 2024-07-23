@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imshreyashk
-- 👀 I’m interested in 
-- 🌱 I’m currently learning
-- 💞️ I’m looking to 
+- 👀 I’m interested in big field
+- 🌱 I’m currently learning machine learning
+
   
 
 <!---
