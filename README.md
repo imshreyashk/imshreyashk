@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imshreyashk
-- 👀 I’m interested in big field
-- 🌱 I’m currently learning machine learning
+- 👀 In big field
+- 🌱 Mlops Master
 
   
 
